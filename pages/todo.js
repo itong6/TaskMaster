@@ -87,7 +87,7 @@ const Todo = () => {
                   className="delete"
                   onClick={() => handleTodoDelete(todo.id)}
                 >
-                  Complete
+                  Delete
                 </button>
               </>
             )}
